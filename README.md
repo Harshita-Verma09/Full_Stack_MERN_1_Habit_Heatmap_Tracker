@@ -1,4 +1,4 @@
-# Full Stack MERN 2 Habit Heatmap Tracker
+# MERN Habit Heatmap Tracker
 
 ## Overview
 
@@ -170,6 +170,7 @@ const habit = await HabitLog.findOneAndUpdate(
 - `.env.example` provided for setup reference
 - Clean project structure
 - Secure API design
+
 
 
 
