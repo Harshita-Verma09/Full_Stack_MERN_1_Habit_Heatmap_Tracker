@@ -1,0 +1,17 @@
+.heatmap-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
+.grid {
+  display: grid;
+  grid-auto-flow: column;        /* 👈 MOST IMPORTANT */
+  grid-template-rows: repeat(7, 14px); /* 7 days */
+  gap: 4px;
+}
+
+.cell {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+}
