@@ -13,6 +13,7 @@ It helps users track daily habits, monitor consistency, and analyze progress ove
 - React
 
 ### Backend
+
 - Node.js
 - Express.js
 - 
@@ -171,6 +172,7 @@ const habit = await HabitLog.findOneAndUpdate(
 - `.env.example` provided for setup reference
 - Clean project structure
 - Secure API design
+
 
 
 
