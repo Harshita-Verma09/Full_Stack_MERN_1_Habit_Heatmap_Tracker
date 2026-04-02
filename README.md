@@ -10,6 +10,7 @@ It helps users track daily habits, monitor consistency, and analyze progress ove
 ## Tech Stack
 
 ### Frontend
+
 - React
 
 ### Backend
